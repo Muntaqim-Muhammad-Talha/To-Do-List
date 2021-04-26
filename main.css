@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Alatsi&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Amita:wght@100;200;300;400;500;600;700&display=swap);
+
+body {
+  font-family: 'ZCOOL QingKe HuangYou', display;
+  transition: all ease in 0.5s;
+  cursor: normal;
+}
+
+li {
+    font-family: 'Alatsi', sans-serif;
+    margin-left: 191px;
+    font-size: 20px;
+    padding-top: 10px;
+    list-style: decimal;
+}
+h1 {
+    font-size: 52px;
+    margin-left: 175px;
+    margin-top: 73px;
+}
+.img {
+    cursor: no-drop;
+}
+.img img {
+    margin-top: -235px;
+    margin-left: 585px;
+    width: 356px;
+    box-shadow: 1px 4px 13px 5px;
+}
+.link {
+    margin-top: -60px;
+    margin-left: 194px;
+}
+.link a {
+    font-family: 'Amita', handwriting;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: rgba(0,0,0,.9);
+    letter-spacing: 1px;
+    background: rgba(0,0,0,.3);
+    padding: 5px 17px;
+    border-radius: 75px;
+    transition: 0.3s;
+}
+.link a:hover{
+          opacity: 0.8;
+}
+.book{}
+.book h2 {
+    margin-left: 652px;
+    margin-top: -264px;
+    font-size: 49px;
+}
+.book li {
+    margin-left: 658px;
+    margin-top: 1px;
+}
+.btn {
+    margin-top: -374px;
+    margin-left: 559px;
+}
+.btn button{
+    background: none;
+    padding: 5px;
+}
+.btn button a {
+    text-decoration: none;
+    color: #000;
+    padding: 23px;
+}
+.book p {
+    font-size: 28px;
+    margin-left: 707px;
+    color: #ddd;
+}
